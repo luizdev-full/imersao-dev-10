@@ -1,0 +1,228 @@
+[
+    {
+        "nome": "Blues",
+        "descricao": "Comunidades afro-americanas do sul dos EUA; pioneiros como Robert Johnson, W.C. Handy",
+        "data_criacao": 1890,
+        "link": "https://www.youtube.com/watch?v=Yd60nI4sa9A"
+    },
+
+    {
+        "nome": "Jazz",
+        "descricao": "Comunidades afro-americanas em Nova Orleans; destaque para Louis Armstrong, Jelly Roll Morton",
+        "data_criacao": 1910,
+        "link": "https://www.youtube.com/watch?v=kmfeKUNDDYs"
+    },
+
+    {
+        "nome": "Rock and Roll",
+        "descricao": "Influenciado por Rhythm & Blues e Country; grandes nomes: Chuck Berry, Little Richard, Elvis Presley",
+        "data_criacao": 1950,
+        "link": "https://www.youtube.com/watch?v=1w7OgIMMRc4&list=RD1w7OgIMMRc4&start_radio=1"
+    },
+
+    {
+        "nome": "MPB (Música Popular Brasileira)",
+        "descricao": "Evolução da Bossa Nova; nomes importantes: Caetano Veloso, Gilberto Gil, Elis Regina",
+        "data_criacao": 1960,
+        "link": "https://www.youtube.com/watch?v=C9yypmH5piw&list=RDC9yypmH5piw&start_radio=1"
+    },
+
+    {
+        "nome": "Samba",
+        "descricao": "Comunidades afro-brasileiras no Rio de Janeiro; pioneiros: Donga, Pixinguinha",
+        "data_criacao": 1916,
+        "link": "https://www.youtube.com/watch?v=stP-_WHhqoU&list=RDGMEMMkXg6j_mS_cJ6jeRubgRyQ&start_radio=1"
+    },
+
+    {
+        "nome": "Bossa Nova",
+        "descricao": "João Gilberto, Tom Jobim, Vinícius de Moraes",
+        "data_criacao": 1958,
+        "link": "https://www.youtube.com/watch?v=RprQ9ZHsbGg&list=RDRprQ9ZHsbGg&start_radio=1"
+    },
+
+    {
+        "nome": "Funk (EUA)",
+        "descricao": "James Brown foi o maior responsável pela popularização",
+        "data_criacao": 1960,
+        "link": "https://www.youtube.com/watch?v=97LY_K-xAhY&list=RD97LY_K-xAhY&start_radio=1"
+    },
+
+     {
+        "nome": "Funk Carioca",
+        "descricao": "Inspirado no Miami Bass; pioneiros: DJ Marlboro, MC Marcinho",
+        "data_criacao": 1960,
+        "link": "https://www.youtube.com/watch?v=bKJW7RReQwA&list=RDbKJW7RReQwA&start_radio=1"
+    },
+
+     {
+        "nome": "Sertanejo",
+        "descricao": "Música caipira; pioneiros: Tonico & Tinoco, Sérgio Reis, depois evolução para Sertanejo Universitário",
+        "data_criacao": 1920,
+        "link": "https://www.youtube.com/watch?v=pZa9bfFkl2w&list=RDpZa9bfFkl2w&start_radio=1"
+    },
+
+    {
+        "nome": "Pop",
+        "descricao": "Evolução da música comercial americana; grandes nomes: Michael Jackson, Madonna",
+        "data_criacao": 1950,
+        "link": "https://www.youtube.com/watch?v=sOnqjkJTMaA"
+    },
+
+    {
+        "nome": "Heavy Metal",
+        "descricao": "Black Sabbath, Led Zeppelin, Deep Purple",
+        "data_criacao": 1970,
+        "link": "https://www.youtube.com/watch?v=0qanF-91aJo"
+    },
+     {
+    "nome": "Trap Music",
+    "descricao": "Subgênero do hip-hop originado no sul dos EUA, caracterizado por batidas pesadas, uso intenso de hi-hats rápidos (rolos) e graves profundos (808s). Foi popularizado por produtores como Zaytoven e Lex Luger.",
+    "data_criacao": "2000",
+    "link": "https://www.youtube.com/watch?v=FpmP2G4m5u8"
+  },
+  {
+    "nome": "Sertanejo Universitário",
+    "descricao": "Variação moderna do sertanejo brasileiro, marcada por letras mais leves e temas da vida universitária e urbana. Gênero impulsionado por artistas como Jorge & Mateus e Gusttavo Lima.",
+    "data_criacao": "2005",
+    "link": "https://www.youtube.com/watch?v=e_w89L8Lp84"
+  },
+  {
+    "nome": "K-Pop (Korean Pop)",
+    "descricao": "Gênero musical sul-coreano que combina elementos de música eletrônica, hip-hop, R&B e pop, com foco em performances visuais elaboradas, moda e produção de alta qualidade. Globalizado por grupos como BTS e Blackpink.",
+    "data_criacao": "1990",
+    "link": "https://www.youtube.com/watch?v=kOHB85vDuow"
+  },
+  {
+    "nome": "Reggaeton",
+    "descricao": "Gênero musical que se originou em Porto Rico, misturando reggae jamaicano, dancehall, e ritmos latinos, impulsionado por uma batida característica conhecida como 'Dembow'. Artistas chave incluem Daddy Yankee e J Balvin.",
+    "data_criacao": "1990",
+    "link": "https://www.youtube.com/watch?v=hN2yM3c94H8"
+  },
+  {
+    "nome": "Death Metal",
+    "descricao": "Estilo extremo de heavy metal, caracterizado por andamentos rápidos, estruturas complexas, guitarras distorcidas com afinação baixa, e vocal gutural (growling). Desenvolvido por bandas como Death e Cannibal Corpse.",
+    "data_criacao": "1980",
+    "link": "https://www.youtube.com/watch?v=zJg6Xg1sK4A"
+  },
+  {
+    "nome": "Lo-fi Hip Hop",
+    "descricao": "Subgênero do hip-hop e música eletrônica focado em texturas sonoras 'baixa fidelidade' (low fidelity), caracterizado por batidas suaves, samples de vinil, ruídos atmosféricos e ausência de vocais complexos. Popularizado em plataformas de streaming como o YouTube.",
+    "data_criacao": "2010",
+    "link": "https://www.youtube.com/watch?v=2CHrYVv9l6I"
+  },
+  {
+    "nome": "Neo-Soul",
+    "descricao": "Gênero que surgiu nos anos 90, revivendo o soul e R&B clássicos, mas incorporando elementos do hip-hop, gospel e afrobeat. Lançado por artistas como D'Angelo e Erykah Badu.",
+    "data_criacao": "1990",
+    "link": "https://www.youtube.com/watch?v=cM4kqL133ds"
+  },
+  {
+    "nome": "Dubstep",
+    "descricao": "Gênero de música eletrônica de dança (EDM) originário do sul de Londres. É conhecido por seu foco em subgraves, batidas sincopadas e, muitas vezes, o uso de 'wobble bass' (baixo oscilante). Produtores como Skrillex e Burial são proeminentes.",
+    "data_criacao": "2000",
+    "link": "https://www.youtube.com/watch?v=Q-Gv1hE5E9k"
+  },
+  {
+    "nome": "Afrobeat",
+    "descricao": "Gênero musical que combina a música tradicional da África Ocidental (especialmente nigeriana) com elementos de funk, jazz e soul. Inventado e popularizado pelo músico nigeriano Fela Kuti.",
+    "data_criacao": "1960",
+    "link": "https://www.youtube.com/watch?v=YgU-N85S96s"
+  },
+  {
+    "nome": "MPB (Música Popular Brasileira)",
+    "descricao": "Estilo que emergiu no Brasil após a Bossa Nova, caracterizado pela fusão de influências folclóricas brasileiras com elementos de música internacional, frequentemente com letras poéticas e complexas. Artistas como Chico Buarque e Caetano Veloso definiram o gênero.",
+    "data_criacao": "1966",
+    "link": "https://www.youtube.com/watch?v=9_t_D7I09w4"
+  },
+  {
+    "nome": "Synth-Pop",
+    "descricao": "Gênero de música popular que surgiu no final dos anos 70, onde o sintetizador é o instrumento dominante. É caracterizado por melodias pop cativantes e produção limpa. Bandas como Depeche Mode e A-ha foram pioneiras.",
+    "data_criacao": "1978",
+    "link": "https://www.youtube.com/watch?v=oXw2s2p26cM"
+  },
+  {
+    "nome": "Grime",
+    "descricao": "Gênero de música eletrônica e hip-hop que se originou em Londres, com batidas rápidas (cerca de 140 bpm), influências de UK garage e letras de rap agressivas e socialmente conscientes. Representado por artistas como Dizzee Rascal e Stormzy.",
+    "data_criacao": "2000",
+    "link": "https://www.youtube.com/watch?v=MBWf_N5e9rM"
+  },
+  {
+    "nome": "Trance",
+    "descricao": "Subgênero da música eletrônica de dança (EDM) conhecido por batidas repetitivas e um acúmulo gradual de intensidade, frequentemente utilizando melodias em camadas e sintetizadores etéreos para criar um estado de euforia ou 'transe'. Artistas como Tiësto e Armin van Buuren.",
+    "data_criacao": "1990",
+    "link": "https://www.youtube.com/watch?v=kC7n4b7z-kE"
+  },
+  {
+    "nome": "Bossa Nova",
+    "descricao": "Um estilo musical brasileiro que surgiu no final dos anos 50, caracterizado pela fusão de samba com o jazz americano, marcado por harmonias sofisticadas e um ritmo de violão suave e sincopado. Inventado por João Gilberto, Tom Jobim e Vinicius de Moraes.",
+    "data_criacao": "1958",
+    "link": "https://www.youtube.com/watch?v=Phd6c5l98h8"
+  },
+  {
+    "nome": "Shoegaze",
+    "descricao": "Subgênero do rock alternativo britânico do final dos anos 80. É caracterizado por guitarras altamente distorcidas e carregadas de efeitos (como reverb e chorus), criando uma parede de som imersiva. O termo deriva da tendência dos músicos olharem para seus pedais de efeito no chão ('shoe-gazing'). Bandas: My Bloody Valentine e Slowdive.",
+    "data_criacao": "1988",
+    "link": "https://www.youtube.com/watch?v=FyyoJ2dD_cQ"
+  },
+  {
+    "nome": "Dancehall",
+    "descricao": "Gênero de música popular jamaicana que sucedeu o reggae roots. Caracterizado por ritmos digitais mais rápidos e ênfase em letras sobre dança e sexualidade. Artistas como Shabba Ranks e Vybz Kartel.",
+    "data_criacao": "1970",
+    "link": "https://www.youtube.com/watch?v=0kH8s9LqX9k"
+  },
+  {
+    "nome": "Grunge",
+    "descricao": "Subgênero do rock alternativo que surgiu em Seattle (EUA), combinando o peso do heavy metal com a atitude do punk, focado em temas de alienação e desilusão. Popularizado mundialmente por bandas como Nirvana e Pearl Jam.",
+    "data_criacao": "1989",
+    "link": "https://www.youtube.com/watch?v=hTWKbfoikeg"
+  },
+  {
+    "nome": "Hyperpop",
+    "descricao": "Um estilo microgênero de música eletrônica e pop que surgiu no final de 2010. Caracterizado por produção exagerada, vocais agudos, batidas caóticas e uma estética futurista e irônica. Associado a artistas como Charli XCX e 100 gecs.",
+    "data_criacao": "2018",
+    "link": "https://www.youtube.com/watch?v=b4N81k-r4G8"
+  },
+  {
+    "nome": "Forró Eletrônico",
+    "descricao": "Variação moderna do tradicional forró nordestino, incorporando instrumentos eletrônicos como bateria eletrônica, teclados e guitarras, resultando em um som mais rápido e dançante. Liderado por bandas como Aviões do Forró e Calcinha Preta.",
+    "data_criacao": "1990",
+    "link": "https://www.youtube.com/watch?v=tI81pY6sS-M"
+  },
+  {
+    "nome": "Drum and Bass (DnB)",
+    "descricao": "Estilo de música eletrônica caracterizado por breakbeats rápidos (tipicamente 160–180 bpm) e linhas de baixo pesadas. Desenvolvido a partir do rave e breakbeat hardcore. Produtores notáveis incluem Goldie e Roni Size.",
+    "data_criacao": "1990",
+    "link": "https://www.youtube.com/watch?v=e82oJ6OQ8-E"
+  },
+  {
+    "nome": "Salsa",
+    "descricao": "Gênero musical e estilo de dança latino-americano, que combina elementos de mambo, son cubano e outros ritmos caribenhos e porto-riquenhos, consolidado nas comunidades latinas de Nova York. Artistas como Tito Puente e Celia Cruz são ícones.",
+    "data_criacao": "1970",
+    "link": "https://www.youtube.com/watch?v=jW2i3k_Ea2s"
+  },
+  {
+    "nome": "Bedroom Pop",
+    "descricao": "Um estilo de indie pop ou pop alternativo onde as músicas são tipicamente gravadas e produzidas de forma caseira (em 'quartos'). Caracterizado por uma sonoridade lo-fi, íntima e despretensiosa. Artistas como Clairo e Billie Eilish (em seu início) são exemplos.",
+    "data_criacao": "2010",
+    "link": "https://www.youtube.com/watch?v=f2n87f4JmF0"
+  },
+  {
+    "nome": "Post-Punk",
+    "descricao": "Gênero que surgiu no final dos anos 70, sucedendo o punk rock. Mantém a energia do punk, mas é mais introspectivo, experimental e complexo, incorporando elementos de música eletrônica, dub e art rock. Bandas essenciais incluem Joy Division e The Cure.",
+    "data_criacao": "1978",
+    "link": "https://www.youtube.com/watch?v=QVc2k58R22Q"
+  },
+  {
+    "nome": "House Music",
+    "descricao": "Um dos principais gêneros da música eletrônica, originado em Chicago. Caracterizado por batidas repetitivas 4/4 (quatro por quatro), ritmos de baixo e sintetizadores. Criado por DJs como Frankie Knuckles no clube 'The Warehouse'.",
+    "data_criacao": "1980",
+    "link": "https://www.youtube.com/watch?v=Zf0VvX9sW34"
+  },
+  {
+    "nome": "Alternative R&B",
+    "descricao": "Gênero moderno de R&B que subverte as convenções do R&B mainstream, incorporando texturas sonoras do hip-hop experimental, eletrônica minimalista e elementos de rock. Artistas como The Weeknd e Frank Ocean definiram o som.",
+    "data_criacao": "2010",
+    "link": "https://www.youtube.com/watch?v=r4c5S99lKxI"
+  }
+]

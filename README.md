@@ -1,4 +1,3 @@
-📘 README Sugerido — Base de Conhecimento de Estilos Musicais
 🎵 Base de Conhecimento de Estilos Musicais
 
 Projeto criado durante a Imersão Dev da Alura para apresentar diferentes estilos musicais, com ano de origem, criadores e links de referência. O objetivo é praticar HTML, CSS e JavaScript enquanto desenvolvo uma base interativa de consulta rápida.

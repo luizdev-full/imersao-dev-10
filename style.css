@@ -39,6 +39,16 @@ header h1 {
     margin: 0; /* Remove a margem padrão */
     font-weight: 500; /* Peso da fonte (médio) */
     white-space: nowrap; /* Impede a quebra de linha do texto */
+background: linear-gradient(90deg, #070707 0%, #1159a6 50%, #3208ec 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 6px 18px rgba(124,77,255,0.12);
+  border-radius: 12px;
+  box-shadow:
+    0 6px 30px midnightblue,
+    0 0 18px midnightblue,
+    0 0 40px midnightblue;
 }
 
 div input {
@@ -89,6 +99,17 @@ div input:focus {
 
 #botao-busca:active {
     transform: scale(0.98); /* Efeito de clique (diminui o tamanho) */
+}
+#botao-brasileira {
+    background-color: MidnightBlue; /* Muda a cor de fundo ao passar o mouse */
+    color: white; /* Muda a cor do texto ao passar o mouse */
+    box-shadow: 0 0 0 0.1rem black; /* Adiciona uma sombra de caixa */
+}
+
+#botao-americana {
+    background-color: MidnightBlue; /* Muda a cor de fundo ao passar o mouse */
+    color: white; /* Muda a cor do texto ao passar o mouse */
+    box-shadow: 0 0 0 0.1rem black; /* Adiciona uma sombra de caixa */
 }
 
 main {

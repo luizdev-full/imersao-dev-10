@@ -7,15 +7,18 @@
 :root {
     --primary-color: #111111; /* Cor primária (azul claro) */
     --secondary-color: #181819; /* Cor secundária (cinza claro) */
-    --tertiary-color: #373839; /* Cor terciária (cinza médio) */
-    --bg-color: #8bc1f8; /* Cor de fundo (cinza escuro) */
+    --tertiary-color: black; /* Cor terciária (cinza médio) */
+    --bg-color: DodgerBlue; /* Cor de fundo (cinza escuro) */
 }
 
-body {
+html, body {
     margin: 0; /* Remove a margem padrão do body */
     background: var(--bg-color); /* Define a cor de fundo usando uma variável */
     color: var(--secondary-color); /* Define a cor do texto padrão usando uma variável */
     font-family: "Quicksand", sans-serif; /* Define a família da fonte */
+    height: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
 
 header {
@@ -79,9 +82,9 @@ div input:focus {
 }
 
 #botao-busca:hover {
-    background-color: var(--primary-color); /* Muda a cor de fundo ao passar o mouse */
-    color: var(--bg-color); /* Muda a cor do texto ao passar o mouse */
-    box-shadow: 0 0 0 0.1rem var(--primary-color); /* Adiciona uma sombra de caixa */
+    background-color: MidnightBlue; /* Muda a cor de fundo ao passar o mouse */
+    color: white; /* Muda a cor do texto ao passar o mouse */
+    box-shadow: 0 0 0 0.1rem black; /* Adiciona uma sombra de caixa */
 }
 
 #botao-busca:active {
@@ -89,62 +92,43 @@ div input:focus {
 }
 
 main {
-    overflow-y: scroll; /* Adiciona uma barra de rolagem vertical se o conteúdo exceder a altura */
     max-width: 80rem; /* Largura máxima do conteúdo principal */
     margin: 0 auto; /* Centraliza o conteúdo principal horizontalmente */
     margin-top: 2rem; /* Margem no topo */
-    height: calc(100vh - 10rem - 4rem); /* Calcula a altura para preencher o espaço restante da tela */
+    padding: 0 1rem;
+    margin-bottom: 3rem;
 }
 
 article {
-    background: none; /* Sem cor de fundo */
-    border-radius: 0; /* Sem bordas arredondadas */
+    background: #8bc1f8; /* Sem cor de fundo */
+    border-radius: 0.9rem; /* Sem bordas arredondadas */
     padding: 0; /* Remove o padding */
     padding: 0 1rem; /* Espaçamento interno nos lados */
     margin-bottom: 1.25rem; /* Margem inferior */
     box-shadow: none; /* Sem sombra */
-    transition: background-color 0.3s ease, border-bottom-color 0.3s ease; /* Transição suave */
-    border-bottom: 1px solid var(--bg-color); /* Borda inferior */
+    border-bottom: 1px solid midnightblue; /* Borda inferior */
     padding-bottom: 1.5rem; /* Espaçamento interno inferior */
+    transition: .35s;
+    cursor: pointer; 
 }
 
 article:hover {
-    transform: scale(1.01); /* Aumenta ligeiramente o tamanho ao passar o mouse */
+    transform: scale(1.02); /* Aumenta ligeiramente o tamanho ao passar o mouse */
     cursor: pointer; /* Muda o cursor para uma mão */
-}
+    text-decoration: none; /* Remove o sublinhado padrão */
 
-article h2 {
-    margin-top: 0; /* Remove a margem superior */
-    font-weight: 600; /* Peso da fonte */
-    font-size: 1.6rem; /* Tamanho da fonte */
-    border-bottom: none; /* Sem borda inferior */
-    padding-bottom: 0; /* Sem espaçamento interno inferior */
-    margin-bottom: 0.25rem; /* Margem inferior */
-    color: var(--primary-color); /* Cor do texto */
-}
-
-article p {
-    margin: 0.5rem 0; /* Margem superior e inferior */
-    line-height: 1.6; /* Altura da linha para melhor legibilidade */
-    font-size: 1rem; /* Tamanho da fonte */
-    margin-bottom: 0.5rem; /* Margem inferior */
-    color: var(--secondary-color); /* Cor do texto */
-}
-
-article p strong {
-    color: var(--tertiary-color); /* Cor do texto em negrito */
-    font-weight: 400; /* Peso da fonte */
 }
 
 article a {
-    color: var(--primary-color); /* Cor do link */
+    color: midnightblue; /* Cor do link */
     text-decoration: none; /* Remove o sublinhado padrão */
     font-weight: 200; /* Peso da fonte */
+    box-shadow: 0 0 0 0.1rem black; /* Adiciona uma sombra de caixa */
+    border-radius: 1rem;
+    
 }
 
-article a:hover {
-    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
-}
+
 
 .footer {
     position: absolute; /* Posicionamento absoluto em relação ao elemento pai posicionado */
@@ -196,11 +180,7 @@ article a:hover {
         width: 90vw; /* Largura baseada na largura da viewport */
         font-size: 1.2rem; /* Reduz o tamanho da fonte */
     }
-
-    main { /* Estilos para o main em telas menores */
-        padding: 0 1rem; /* Adiciona espaçamento lateral */
-    }
-
+    
     article:hover { /* Estilos para o article em telas menores */
         transform: none; /* Remove o efeito de escala ao passar o mouse */
     }

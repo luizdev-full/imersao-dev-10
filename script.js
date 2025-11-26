@@ -13,6 +13,19 @@ async function iniciarBusca() {
     renderizarCards(dadosFiltrados);
 }
 
+async function mostrarCategoria(categoria) {
+
+    // 🔥 CORREÇÃO – carregar os dados de verdade
+    if (dados.length === 0) {
+        let resposta = await fetch("data.json");
+        dados = await resposta.json();
+    }
+
+    const filtrados = dados.filter(item => item.categoria === categoria);
+
+    renderizarCards(filtrados);
+}
+
 function renderizarCards(dados) {
     cardConteiner.innerHTML = ''; // Limpa os cards existentes
     for (let dado of dados) {
